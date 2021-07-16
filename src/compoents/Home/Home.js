@@ -22,7 +22,7 @@ function Home() {
 
     <S.Container>
       {/* <h1> Hello {props.title}</h1> */}
-      <h1>{usuario} </h1>
+      {/* <h1>{usuario} </h1> */}
       <S.Input className="usuarioInput" placeholder="user" value={usuario} onChange={e => setUsuario(e.target.value)} />
       < S.button type="button" onClick={handlePesquisa}> Pesquisa </S.button >
     </S.Container>
