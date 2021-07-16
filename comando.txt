@@ -1,0 +1,9 @@
+ 1296  npm start
+ 1297  npm install axios
+ 1298  npm start
+ 1299  npm install styled-components
+ 1300  npm start
+ 
+  1338  npm install react-router-dom
+
+npx create-react-app gamagit // gamagit é o nome do projeto
